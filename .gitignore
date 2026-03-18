@@ -1,0 +1,31 @@
+# Keil build outputs
+*.axf
+*.bin
+*.d
+*.crf
+*.dep
+*.htm
+*.lnp
+*.lst
+*.map
+*.o
+*.sct
+*.txt
+
+# Keil generated folders
+obj/
+lst/
+
+# Keil user-specific files
+*.uvguix.*
+*.uvoptx
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project-specific exclusions
+ssd1306_nuc140_example.c
