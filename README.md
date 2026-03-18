@@ -23,3 +23,7 @@ Based on the original work by Tilen Majerle and the STM32 modifications by Alexa
 - **Bus:** I2C0
 - **Speed:** 100 kHz (Standard mode)
 - **Default Display Address:** 0x78 (alternative: 0x7A)
+
+## Hardware Setup
+
+![](image.png)
