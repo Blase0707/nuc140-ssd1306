@@ -26,6 +26,3 @@ lst/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Project-specific exclusions
-ssd1306_nuc140_example.c
